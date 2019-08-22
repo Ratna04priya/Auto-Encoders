@@ -6,3 +6,6 @@ _Autoencoder is an unsupervised artificial neural network that learns how to eff
 Autoencoder, by design, reduces data dimensions by learning how to ignore the noise in the data.
 
 ## About the repo
+
+This repo contains the code for simple autoencoders as well as autoencoders by CNN.
+Denoising is also a major concept covered in the repo .
