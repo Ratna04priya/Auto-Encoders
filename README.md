@@ -46,3 +46,5 @@ As I've mentioned before, autoencoders like the ones you've built so far aren't 
 ### Checking out the performance
 
 On opening the method of convolution notebook, we'll be clearly able to see the results provided by the network.
+
+
